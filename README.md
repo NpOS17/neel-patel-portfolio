@@ -2,7 +2,7 @@
 
 IT Support | Help Desk | Junior Network and Cybersecurity
 
-Live site: https://muse.ai/s/neel-patel-portfolio-tomas-style-xzxx6m5xtl3huxh/44rs8uC9gN1nl-HjxoLSA9T-gfn27ZKRX8RhxAimXuw
+Live site: https://npos17.github.io/neel-patel-portfolio/
 
 ## About
 
